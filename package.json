@@ -20,6 +20,6 @@
   "homepage": "https://github.com/avast/firefox-xpi",
   "dependencies": {
     "del": "^3.0.0",
-    "web-ext": "^2.9.3"
+    "web-ext": "^7.2.0"
   }
 }
